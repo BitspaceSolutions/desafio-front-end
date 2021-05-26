@@ -1,3 +1,4 @@
+
 # Desafio Front End - Squad Management Tool
 
 Olá, gostaríamos de dizer que estamos muito felizes pelo seu interesse em nossa vaga e lhe convidar a participar do nosso desafio técnico.  😁
@@ -13,6 +14,12 @@ O que avaliamos:
 ### Desafio
 
 Para esse desafio, você precisará criar uma aplicação **responsiva** em ReactJS onde o usuário será capaz de gerenciar times de futebol - criar, deletar e editar - sejam eles reais ou fantasia, seguindo estritamente o layout proposto a seguir:
+
+##### Página inicial
+![Home](https://github.com/BitspaceSolutions/desafio-front-end/blob/main/home.jpg?raw=true)
+
+##### Página de criação/edição de time
+![Create/Edit team](https://github.com/BitspaceSolutions/desafio-front-end/blob/main/team.jpg?raw=true)
 
 #### Regras de Negócio
 ##### Página inicial
